@@ -1,0 +1,6 @@
+{
+    "rest-client.excludeHostsForProxy": [
+
+    ],
+    "rest-client.previewResponseInUntitledDocument": true
+}
